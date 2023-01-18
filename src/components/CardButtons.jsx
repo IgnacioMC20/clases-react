@@ -9,9 +9,6 @@ export const CardButtons = () => {
 
     useEffect(() => {
         console.log('Hola mundo useEffect');
-        return {
-            
-        }
     }, [count])
 
     // ?   const [valor, modificarValor] = useState(valorInicial)
